@@ -239,6 +239,8 @@ The system calculates risk scores based on vital sign thresholds:
 
 # Dashboard
 <video controls src="realtime streaming.mp4" title="Title"></video>
+C:\Users\sebin\Downloads\Real-Time-Streaming-System-with-Apache-Kafka\realtime streaming.mp4
+
 
 
 
