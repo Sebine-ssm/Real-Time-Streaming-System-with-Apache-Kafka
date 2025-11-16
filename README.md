@@ -238,9 +238,7 @@ The system calculates risk scores based on vital sign thresholds:
 - **Faker** - Synthetic data generation library
 
 # Dashboard
-<video controls src="Real-Time Healthcare Dashboard - Google Chrome 2025-11-16 17-34-06.mp4" title="Title"></video>
-
-## Troubleshooting
+<video controls src="realtime streaming.mp4" title="Title"></video>
 
 
 
