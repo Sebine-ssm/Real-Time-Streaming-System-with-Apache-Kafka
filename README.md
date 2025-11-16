@@ -238,9 +238,9 @@ The system calculates risk scores based on vital sign thresholds:
 - **Faker** - Synthetic data generation library
 
 # Dashboard
-<video controls src="realtime streaming.mp4" title="Title"></video>
+https://github.com/user-attachments/assets/b9f2e210-c7fc-4cab-8655-a9a85e1c1c53
 
-C:\Users\sebin\Downloads\Real-Time-Streaming-System-with-Apache-Kafka\realtime streaming.mp4
+
 
 
 
