@@ -240,7 +240,7 @@ The system calculates risk scores based on vital sign thresholds:
 # Dashboard
 <video controls src="Real-Time Healthcare Dashboard - Google Chrome 2025-11-16 17-34-06.mp4" title="Title"></video>
 
-## Troubleshooting
+
 
 
 
